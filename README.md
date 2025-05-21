@@ -1,6 +1,6 @@
 - Joel Friedrick
 - @joel-friedrick-seagull-com
-- jfriedrick@seagullscientific.com
+- jfriedrick@seagullsoftware.com
 - Lead Software Engineer
 - Team BarTender Tau
 
